@@ -1,0 +1,38 @@
+header {
+  background: #7f7;
+  height: 200px;
+  padding-left: 10px;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 90px;
+  padding-bottom: 0;
+}
+
+header p {
+  color: #faa;
+  font-size: 30px;
+  padding-top: 0;
+}
+
+.site-nav {
+  height: 60px;
+  background: red;
+  padding: 0px 0px;
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 0 20px;
+  color: #fff;
+  font-size: 40px;
+}
+
+.site-nav ul il {
+  margin: 80px;
+}
+
+body {
+  font-family: 'prisoner sf';
+}
